@@ -1,0 +1,6 @@
+{
+  "name": "FileGuard AI",
+  "description": "File Integrity Monitoring and Threat Detection System for Cyber Forensics",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
